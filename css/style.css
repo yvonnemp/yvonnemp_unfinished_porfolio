@@ -1,0 +1,38 @@
+.container.my-auto {
+    background-color: #1d1d1dc2;
+    padding: 10px;
+    width: 33%;
+}
+
+#mainNav .navbar-brand {
+	text-transform: none;
+}
+
+#mainNav .navbar-brand span {
+	font-size: 22px;
+}
+
+#mainNav .navbar-nav>li.nav-item>a.nav-link.active, #mainNav .navbar-nav>li.nav-item>a.nav-link:focus.active {
+    color: #ffffff!important;
+}
+
+@media (min-width: 992px) {
+#mainNav.navbar-shrink {
+    background-color: #1d1d1d;
+    transition: 1s;
+    height: 73px;
+}
+
+#mainNav.navbar-shrink .navbar-brand {
+    color: #ffffff;
+}
+
+#mainNav.navbar-shrink .navbar-nav>li.nav-item>a.nav-link, #mainNav.navbar-shrink .navbar-nav>li.nav-item>a.nav-link:focus {
+    color: #ffffff;
+}
+#mainNav.navbar-shrink .navbar-brand:focus, #mainNav.navbar-shrink .navbar-brand:hover {
+    color: #9E9E9E;
+}
+}
+
+
