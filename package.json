@@ -1,8 +1,8 @@
 {
-    "title": "Creative",
-    "name": "startbootstrap-creative",
-    "version": "4.0.0",
-    "description": "Creative is a stylish one page HTML theme for Bootstrap.",
+    "title": "Yvonne",
+    "name": "yvonneportfolio",
+    "version": "1.0.0",
+    "description": "Portfolio one page HTML theme for Bootstrap.",
     "keywords": [
         "css",
         "sass",
@@ -11,20 +11,11 @@
         "theme",
         "template"
     ],
-    "homepage": "https://startbootstrap.com/template-overviews/creative",
     "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-creative/issues",
-        "email": "feedback@startbootstrap.com"
+        "email": "panganibanyvonne.yp@gmail.com"
     },
-    "license": "MIT",
-    "author": "Start Bootstrap",
-    "contributors": [
-        "David Miller (http://davidmiller.io/)"
-    ],
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-creative.git"
-    },
+    "license": "",
+    "author": "Yvonne",
     "dependencies": {
         "bootstrap": "4.0.0",
         "font-awesome": "4.7.0",
